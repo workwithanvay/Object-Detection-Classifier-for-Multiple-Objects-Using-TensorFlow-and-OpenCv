@@ -1,2 +1,2 @@
 # Object-Detection-Classifier-for-Multiple-Objects-Using-TensorFlow-and-OpenCv
-This repository is a tutorial for how to use TensorFlow's Object Detection API to train an object detection classifier for multiple objects
+This project uses TensorFlow's Object Detection API to train an object detection classifier for multiple objects.We have used Faster RCNN model for training as it trains well and takes less time to train as compared to others.I have trained the model on deck of certain playing cards namely-Ace,Queen,King,Nine,Ten.Jack.It took 3 hours to train the model and has accuracy of 90%
